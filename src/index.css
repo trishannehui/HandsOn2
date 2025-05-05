@@ -2,7 +2,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background:
     linear-gradient(135deg, rgba(0, 0, 0, 0.7), rgba(30, 30, 30, 0.9)),
-    url(C:\Users\Toshiba\my-ho2\public\backgrounds\bg.jpg) no-repeat center center fixed;
+    url(\backgrounds\bg.jpg) no-repeat center center fixed;
   background-size: cover;
   margin: 0;
   padding: 1rem;
